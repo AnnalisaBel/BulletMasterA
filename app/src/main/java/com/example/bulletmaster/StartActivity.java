@@ -20,7 +20,10 @@ public class StartActivity extends AppCompatActivity {
             public void onClick(View v) {
                 Intent intgotolev = new Intent(StartActivity.this, LevelsActivity.class);
                 startActivity(intgotolev);
+
             }
         });
+
+        Button ciao = findViewById(R.id.ciao);
     }
 }
