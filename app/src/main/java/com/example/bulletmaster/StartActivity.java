@@ -88,7 +88,7 @@ public class StartActivity extends AppCompatActivity {
         vid.setVideoURI(u);
 
         vid.start();
-    }//Your code here
+    }//Your code herek
 
     /*TO DO
         testo che scorre dall'alto verso il basso
